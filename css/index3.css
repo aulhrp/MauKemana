@@ -139,7 +139,7 @@ input:focus, textarea:focus {
 	margin-top:110px
 }
 
-.p11:hover {
+.p11:active {
 	background:url(../img/Menu%201/Pilihan%201h.png);
 }
 
@@ -151,7 +151,7 @@ input:focus, textarea:focus {
 	margin-top:0px
 }
 
-.p12:hover {
+.p12:active {
 	background:url(../img/Menu%201/Pilihan%202h.png);
 }
 
@@ -171,7 +171,7 @@ input:focus, textarea:focus {
 	margin-top:110px
 }
 
-.p21:hover {
+.p21:active {
 	background:url(../img/Menu%202/pilihan1h.png);
 }
 
@@ -183,7 +183,7 @@ input:focus, textarea:focus {
 	margin-top:0px
 }
 
-.p22:hover {
+.p22:active {
 	background:url(../img/Menu%202/pilihan2h.png);
 }
 
@@ -203,7 +203,7 @@ input:focus, textarea:focus {
 	margin-top:110px
 }
 
-.p31:hover {
+.p31:active {
 	background:url(../img/Menu%203/pilihan1h.png);
 }
 
@@ -215,7 +215,7 @@ input:focus, textarea:focus {
 	margin-top:0px
 }
 
-.p32:hover {
+.p32:active {
 	background:url(../img/Menu%203/pilihan2h.png);
 }
 

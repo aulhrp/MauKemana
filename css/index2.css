@@ -58,7 +58,7 @@ body {
 	margin-left:11px;
 }
 
-.kiri:hover {
+.kiri:active {
 	background:url(file:///C|/Users/Aulia%20Harahap/Documents/Visual%20Studio%202012/Projects/MauKemanaBebas/MauKemanaBebas/www/img/Home/Left1.png)}
 
 .kanan1 {
@@ -70,7 +70,7 @@ body {
 	margin-left:222px;
 }
 
-.kanan1:hover {
+.kanan1:active {
 	background:url(file:///C|/Users/Aulia%20Harahap/Documents/Visual%20Studio%202012/Projects/MauKemanaBebas/MauKemanaBebas/www/img/Home/Right11.png)}
 
 .kanan2 {
@@ -82,7 +82,7 @@ body {
 	margin-left:222px;
 }
 
-.kanan2:hover {
+.kanan2:active {
 	background:url(file:///C|/Users/Aulia%20Harahap/Documents/Visual%20Studio%202012/Projects/MauKemanaBebas/MauKemanaBebas/www/img/Home/Right12.png)}
 
 .bawah {
@@ -95,7 +95,7 @@ body {
 
 }
 
-.bawah:hover {
+.bawah:active {
 	background:url(file:///C|/Users/Aulia%20Harahap/Documents/Visual%20Studio%202012/Projects/MauKemanaBebas/MauKemanaBebas/www/img/Home/Bottom1.png)}
 .container {
 	width:480px;
