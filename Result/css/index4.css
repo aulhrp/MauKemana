@@ -35,11 +35,18 @@ body {
 
 
 .container {
-	width:468px;
+	width:480px;
+	height:800px;
+	margin: 0 auto;
+}
+
+.container2 {
+	width:454px;
 	max-height:inherit;
 	margin: 0 auto;
-	background-color:#C902E6;
+	background:url(../../img/last2.png);
 }
+
 
 .logo {
 	background:url(../../img/logo2.png);
@@ -53,10 +60,11 @@ body {
 }
 
 .footer {
-	width:468px;
+	width:480px;
 	max-height:inherit;
 	position:absolute;
 	background-color:#000;
+	margin-top:10px;
 }
 /* Landscape layout (with min-width) */
 @media screen and (min-aspect-ratio: 1/1) and (min-width:400px)
