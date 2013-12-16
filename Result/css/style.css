@@ -78,8 +78,8 @@
 	margin-left:15px;
 }
 
-@media screen and (max-width: 320px){
 	.st-accordion ul li > a{
 		font-size:20px;
 	}
-}
+/* Landscape layout (with min-width) */
+@media screen and (min-aspect-ratio: 1/1) and (min-width:400px
