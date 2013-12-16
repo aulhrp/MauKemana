@@ -42,7 +42,7 @@ body {
 
 .container2 {
 	width:454px;
-	max-height:inherit;
+	height:800px;
 	margin: 0 auto;
 	background:url(../../img/last2.png);
 }
