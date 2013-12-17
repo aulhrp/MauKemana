@@ -118,7 +118,14 @@ input:focus, textarea:focus {
 }
 
 .help {
-	background:url(../img/help.png);
+	background:url(../img/help.gif);
+	height:800px;
+	width:480px;
+	position:absolute;
+}
+
+.aboutus {
+	background:url(../img/About%20Us.gif);
 	height:800px;
 	width:480px;
 	position:absolute;

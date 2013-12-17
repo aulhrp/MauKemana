@@ -68,5 +68,26 @@ p {
 .h90
 {height:250px;
 }
+
+.footer {
+	width:400px;
+	height:30px;
+	margin:0 auto;
+	color:#CCC;
+	font-family:helvetica-black;
+	font-size:10px;
+	text-align:center;
+	padding:0px;
+}
+.footer a {
+	text-decoration:none;
+	font-size:11px;
+	color:#fff;
+}
+
+.footer p {
+	font-size:11px;
+	padding-bottom:
+}
 /* Landscape layout (with min-width) */
 @media screen and (min-aspect-ratio: 1/1) and (min-width:400px)
